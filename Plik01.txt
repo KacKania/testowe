@@ -5,3 +5,4 @@ Zmiana04
 Zmiana05
 git diff zmiana
 Dodano asystenta pomocy
+Uproszczenie interfejsu graficznego
